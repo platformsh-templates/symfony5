@@ -17,6 +17,7 @@
     "require-dev": {
     },
     "config": {
+        "optimize-autoloader": true,
         "preferred-install": {
             "*": "dist"
         },
@@ -60,7 +61,7 @@
     "extra": {
         "symfony": {
             "allow-contrib": false,
-            "require": "5.0.*"
+            "require": "5.1.*"
         }
     }
 }
