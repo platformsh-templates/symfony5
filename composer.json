@@ -16,8 +16,6 @@
         "symfony/framework-bundle": "*",
         "symfony/yaml": "*"
     },
-    "require-dev": {
-    },
     "config": {
         "optimize-autoloader": true,
         "preferred-install": {
