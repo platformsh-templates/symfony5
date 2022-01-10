@@ -1,3 +1,5 @@
+> **Archived template:** This Symfony 5 template has been archived, and will no longer receive updates from our upstream maintenance tooling. Users should consult the new and official [Platform.sh template provided from Symfony](https://github.com/symfonycorp/platformsh-symfony-template). 
+
 # Symfony 5 for Platform.sh
 
 <p align="center">
